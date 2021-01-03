@@ -10,10 +10,10 @@
 <img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> <img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=flat"> <br />
 
 ### My Most used Languages
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedikaag99&show_icons=true&locale=en&layout=compact" alt="vedikaag99" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedikaag99&show_icons=true&&theme=radical" alt="vedikaag99" /></p><br/>
 
 ### My Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedikaag99&show_icons=true&locale=en" alt="vedikaag99" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vedikaag99&show_icons=true&&theme=radical" alt="vedikaag99" /></p>
 
 ### Connect with me
 <p align="left">
