@@ -18,5 +18,5 @@
 <a href="https://linkedin.com/in/vedika-agarwal-a134311a9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Vedika Agarwal| Linkedin" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vedika_ag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Vedika Agarwal| CodeChef" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vedika_ag99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Vedika Agarwal| Hackerrank" height="30" width="40" /></a>
-<a href="mailto:kajolkumarisingh222@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Vedika Agarwal| Gmail" height="30" width="40" /></a>
+<a href="mailto:vedika.ag99@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Vedika Agarwal| Gmail" height="30" width="40" /></a>
 </p>
