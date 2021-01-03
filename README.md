@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vedika Agarwal</h1>
 <h3 align="center">I am a CSE undergraduate student at Heritage Institute of Technology, Kolkata. I am a competitive programmer and I work on web development projects. ❤</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedikaag99&label=Profile%20views&color=0e75b6&style=flat" alt="vedikaag99" /> </p>
-
 ### Technical Skills
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white"> <br />
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> 
