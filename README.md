@@ -14,7 +14,7 @@
 ![Vedika's github stats](https://github-readme-stats.vercel.app/api?username=vedikaag99&show_icons=true&&theme=radical)
 
 ### Earned Badges
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="hacktoberfest2020" img align="left" width="100" height="100">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="hacktoberfest2020" width="100" height="100">
 
 ### Connect with me
 <p align="left">
