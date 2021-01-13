@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vedika </h1>
+<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">, I'm Vedika </h1>
 <h3 align="center">I am a CSE undergraduate student at Heritage Institute of Technology, Kolkata. I am a competitive programmer and I work on web development projects. ❤</h3>
 
 ### Technical Skills
