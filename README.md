@@ -16,7 +16,7 @@
 ### Earned Badges
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="hacktoberfest2020" width="100" height="100">
 
-### Connect with me
+### Connect with me <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px">
 <p align="left">
 <a href="https://linkedin.com/in/vedika-agarwal-a134311a9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Vedika Agarwal| Linkedin" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vedika_ag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Vedika Agarwal| CodeChef" height="30" width="40" /></a>
