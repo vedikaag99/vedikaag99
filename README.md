@@ -18,8 +18,6 @@
 
 ### Connect with me <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px">
 <p align="left">
-<a href="https://linkedin.com/in/vedika-agarwal-a134311a9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Vedika Agarwal| Linkedin" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vedika_ag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Vedika Agarwal| CodeChef" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vedika_ag99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Vedika Agarwal| Hackerrank" height="30" width="40" /></a>
-<a href="mailto:vedika.ag99@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Vedika Agarwal| Gmail" height="30" width="40" /></a>
+<a target="_blank"href="https://linkedin.com/in/vedika-agarwal-a134311a9/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Vedika Agarwal| Linkedin"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:vedika.ag99@gmail.com" target="blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Vedika Agarwal| Gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
