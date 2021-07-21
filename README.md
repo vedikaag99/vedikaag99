@@ -21,7 +21,7 @@
 <a target="_blank"href="https://linkedin.com/in/vedika-agarwal-a134311a9/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Vedika Agarwal| Linkedin"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:vedika.ag99@gmail.com" target="blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Vedika Agarwal| Gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
+<h1>Watch a 🐍 eating my contribution graph</h1>
 <p align="center">
-  <img src="https://github.com/vedikaag99/vedikaag99/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 </p>
